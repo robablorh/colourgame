@@ -1,0 +1,48 @@
+.app{
+  border: 4px solid black;
+  margin: 20px;
+}
+
+.game{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.red{
+  color: red;
+}
+.yellow{
+  color: rgb(170, 0, 255);
+}
+.green{
+  color: green;
+
+}
+.pink{
+  color: pink;
+}
+.brown{
+  color: brown;
+}
+.blue{
+  color: blue;
+}
+.heading{
+  font-size: 100px;
+}
+.score{
+  font-size: 40px;
+}
+.square{
+  font-size: 40px;
+}
+.btn{
+  margin-left: 10px;
+  height: 50px;
+  width: 100px;
+  font-size: 25px;
+}
